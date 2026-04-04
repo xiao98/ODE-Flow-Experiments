@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+results/
+.pytest_cache/
+.DS_Store
+
+# LaTeX auxiliary files
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.synctex.gz
+data/
